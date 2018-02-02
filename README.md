@@ -6,6 +6,7 @@ DIMIGO-PEOPLE
 
 Web
 ----
+* __[제한재](https://github.com/bighilljae)__(9기, 재학중) : Java, Javascript
 
 Game
 ----
