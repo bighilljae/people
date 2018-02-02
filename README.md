@@ -6,6 +6,7 @@ DIMIGO-PEOPLE
 
 Web
 ----
+* __[제한재](https://github.com/shimika)__(9기, 재직중) : C#
 
 Game
 ----
